@@ -6,7 +6,7 @@
 
 
 
-## 一、单目测速 | Monocular Velocimetry
+## 一、Monocular Velocimetry
 
 Analytical Modeling for a Video-Based Vehicle Speed Measurement Framework（2020）
 
@@ -50,9 +50,9 @@ Real-time license plate recognition and speed estimation from video sequences（
 
 CNNs for fine-grained car model classification（2020）
 
-## **二、单目测距** | Monocular distance measurement
+## 二、onocular distance measurement
 
-1.**单目测距经典汇总** | Monocular distance measurement classic summary
+1. Monocular distance measurement classic summary
 
  TTCDist Fast Distance Estimation From an Active Monocular Camera Using Time-to-Contact(2022)
 
@@ -66,10 +66,10 @@ Vehicle speed detection and safety distance estimation using aerial images of br
 
  Robust vehicle detection and distance estimation under challenging lighting conditions（ITS2015）
 
-## 三、双目
+## 三、Stero
 
 To do
 
-## 四、多目
+## 四、Multi-views
 
 To do
